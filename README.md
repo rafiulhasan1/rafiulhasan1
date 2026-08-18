@@ -116,7 +116,7 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rafiulhasan1&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiulhasan1&theme=tokyonight"/>
 </p>
 
 
@@ -126,7 +126,7 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiulhasan1&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rafiulhasan1&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 
