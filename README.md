@@ -146,9 +146,8 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rafiulhasan1&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=rafiulhasan1"/>
 </p>
-
 
 ---
 
