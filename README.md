@@ -126,7 +126,7 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rafiulhasan1&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiulhasan1&theme=tokyo-night"/>
 </p>
 
 
@@ -146,7 +146,7 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rafiulhasan1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rafiulhasan1&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 
@@ -162,7 +162,7 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 </a>
 
 
-<a href="#">
+<a href="https://www.linkedin.com/in/rafiul-hasan-b90390234/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
