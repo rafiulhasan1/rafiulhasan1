@@ -1,11 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rafiul Hasan</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rafiul%20Hasan&fontSize=70&animation=fadeIn"/>
+</p>
+
+
+<h1 align="center">
+Hi 👋, I'm Rafiul Hasan
+</h1>
 
 <h3 align="center">
-A passionate Full Stack Developer from Bangladesh 🇧🇩
+Full Stack Developer | JavaScript Enthusiast | Problem Solver 🇧🇩
 </h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;JavaScript+Enthusiast;Building+Scalable+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+</p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rafiulhasan1&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 
@@ -13,20 +26,22 @@ A passionate Full Stack Developer from Bangladesh 🇧🇩
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **modern web applications**
-- 🌱 I’m learning **Advanced React, Node.js and Software Engineering**
-- 💡 Interested in **Full Stack Development and Open Source**
+- 🔭 Currently building modern web applications
+- 🌱 Learning advanced React, Node.js and software architecture
+- 💡 Interested in Full Stack Development and Open Source
+- 🚀 Love creating clean and scalable solutions
 - 🎯 Goal: Become a better software engineer every day
-- 📫 Reach me at: **rafiulhasan001@gmail.com**
+
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
+
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,bootstrap"/>
 </p>
 
 
@@ -37,43 +52,78 @@ A passionate Full Stack Developer from Bangladesh 🇧🇩
 </p>
 
 
-### Tools & Others
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker"/>
 </p>
 
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Dev Duo
-Modern developer portfolio website built with React, Vite and Tailwind CSS.
 
-### 📰 The News Room
-A JavaScript based news application.
+## 💻 Dev Duo
 
-### 🌍 Ghurbo
-Tourism management system with authentication and booking features.
+Modern developer portfolio website built with:
 
-### 💼 VarsaTech Studio
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+
+
+## 🌍 Ghurbo
+
+Tourism management system with:
+
+- Authentication
+- Booking system
+- Admin dashboard
+- Firebase integration
+
+
+## 📰 The News Room
+
+A JavaScript based news application with dynamic content.
+
+
+## 🏢 Project-VarsaTech_Studio
+
 Professional frontend project developed for a company.
 
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafiulhasan1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafiulhasan1&layout=compact&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafiulhasan1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafiulhasan1&layout=compact&theme=tokyonight"/>
+
 </p>
 
 
 ---
 
-## 🔥 Contribution Graph
+# 🔥 GitHub Streak
+
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rafiulhasan1&theme=tokyonight"/>
+</p>
+
+
+---
+
+# 📈 Contribution Graph
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiulhasan1&theme=tokyo-night"/>
@@ -82,7 +132,28 @@ Professional frontend project developed for a company.
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rafiulhasan1/rafiulhasan1/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+---
+
+# 🏆 GitHub Trophy
+
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rafiulhasan1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+
+---
+
+# 🌐 Connect With Me
+
 
 <p align="center">
 
@@ -90,9 +161,11 @@ Professional frontend project developed for a company.
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rafiul-hasan-b90390234/">
+
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=google-chrome"/>
@@ -106,3 +179,8 @@ Professional frontend project developed for a company.
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
