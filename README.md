@@ -17,7 +17,7 @@ A passionate Full Stack Developer from Bangladesh 🇧🇩
 - 🌱 I’m learning **Advanced React, Node.js and Software Engineering**
 - 💡 Interested in **Full Stack Development and Open Source**
 - 🎯 Goal: Become a better software engineer every day
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **rafiulhasan001@gmail.com**
 
 ---
 
@@ -95,7 +95,7 @@ Professional frontend project developed for a company.
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/rafiul-hasan-b90390234/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
